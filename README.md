@@ -1,6 +1,8 @@
 ##
 
 
+[Live](https://countrydetail1.netlify.app/)
+
 #### Using Countries GraphQL API with React JS to get list of countries
 
 ## GraphQL API use 
